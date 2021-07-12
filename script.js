@@ -1,4 +1,4 @@
 // Luis Morales 
-  $(window).scroll(function(){
-	$('nav').toggleClass('scrolled', $(this).scrollTop() > 50);
-});
+//   $(window).scroll(function(){
+// 	$('nav').toggleClass('scrolled', $(this).scrollTop() > 50);
+// });
